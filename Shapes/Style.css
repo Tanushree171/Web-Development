@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+html,body{
+   
+    width: 100%;
+    height: 100%;
+  
+}
+body{
+ background-color: antiquewhite;
+}
+main{
+    display: flex;
+}
+div{
+    width: 200px;
+    height: 200px;
+}
+#Square1{
+    background-color: aqua;
+}
+#Square2{
+    background-color: yellow;
+}
+#Square3{
+    background-color: plum;
+}
